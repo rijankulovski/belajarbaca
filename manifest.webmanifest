@@ -1,0 +1,3 @@
+{ "name": "Ayo Membaca!", "short_name": "Ayo Membaca", "start_url": "/", "display": "standalone",
+  "background_color": "#fff7e8", "theme_color": "#ff8a3d",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }] }
